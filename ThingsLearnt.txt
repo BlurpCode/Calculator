@@ -1,0 +1,5 @@
+THINGS I LEARNT
+
+- Using Style.Triggers in XAML to create custom buttons
+- Using Styles to apply consistant styling to multiple of buttons at once
+- The use of the border tag to apply boarders and rounded corners to elements
